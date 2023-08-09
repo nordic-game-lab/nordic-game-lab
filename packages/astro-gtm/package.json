@@ -9,7 +9,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nordic-game-lab/nordic-game-lab.git",
-    "directory": "packages/analytics"
+    "directory": "packages/astro-gtm"
   },
   "author": "hi5a",
   "license": "MIT",
@@ -28,7 +28,6 @@
     "astro-component",
     "astro",
     "analytics",
-    "astrolib",
     "google-analytics",
     "ga4",
     "gtm",
