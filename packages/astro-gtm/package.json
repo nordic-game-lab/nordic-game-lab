@@ -1,8 +1,8 @@
 {
   "name": "@nordic-game-lab/astro-gtm",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Provides snippets injection for Google Tag manager",
-  "homepage": "https://wiki.nordicgamelab.org/astro-gtm",
+  "homepage": "https://github.com/nordic-game-lab/nordic-game-lab/tree/main/packages/astro-gtm",
   "bugs": {
     "url": "https://github.com/nordic-game-lab/nordic-game-lab/issues"
   },
